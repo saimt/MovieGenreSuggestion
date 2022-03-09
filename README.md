@@ -5,3 +5,10 @@
 
 **Third Party Libraries Used**
 [SDWebImage](https://github.com/SDWebImage/SDWebImage)
+
+**Description**
+- Application uses simple MVVM architecture. 
+- As instructed a ***Mock*** UrlSession is used to demonstrate movie download and can be found in ***MovieDetailViewModel***.
+- A simple Unit test is also implemented to test ***Mock*** network request.
+- Code is clean and self-explanatory so there are no unnecessary comments added.
+
